@@ -28,6 +28,9 @@ namespace ColeccionesPrep
 
             //Diccionario diccionario = new Diccionario();
             //diccionario.EjemploDiccionario();
+
+            //Matrices matrices = new Matrices();
+            //matrices.EjemploMatrices();
         }
     }
     
