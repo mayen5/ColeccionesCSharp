@@ -26,8 +26,8 @@ namespace ColeccionesPrep
             //ColeccionElementos coleccionElementos = new ColeccionElementos();
             //coleccionElementos.EjemploColeccionElementos();
 
-            Diccionario diccionario = new Diccionario();
-            diccionario.EjemploDiccionario();
+            //Diccionario diccionario = new Diccionario();
+            //diccionario.EjemploDiccionario();
         }
     }
     
